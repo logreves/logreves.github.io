@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://logreves.github.io/sitemap.html.gz
+Sitemap: https://logreves.github.io/app/sitemap.html.gz
+Sitemap: https://logreves.github.io/assets/sitemap.html.gz
+Sitemap: https://logreves.github.io/css/sitemap.html.gz
+Sitemap: https://logreves.github.io/includes/sitemap.html.gz
+Sitemap: https://logreves.github.io/item/sitemap.html.gz
+Sitemap: https://logreves.github.io/src/sitemap.html.gz
